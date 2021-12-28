@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreaart
 - 👀 I’m interested in Git
 - 🌱 I’m currently learning how to use it
-- 💞️ I’m looking to collaborate on analyze and visulaize data
+- 💞️ I’m looking to collaborate on analyze and visualize data
 - 📫 How to reach me andrea.artoni@unipr.it
 
 <!---
